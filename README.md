@@ -16,8 +16,13 @@ Para minimizar os erros do nosso projeto, decidimos seguir um padrão de mercado
 
 ### ✅ Lista de Questões e Responsáveis
 
+<<<<<<< HEAD
+- [X] **Questão 1 - Exibir os divisores de um número positivo**
+  > **Descrição:** Crie um programa que receba um número inteiro positivo e exiba todos os seus divisores. Não permita a digitação de números negativos e solicite a digitação de um número positivo.
+=======
 - [ ] **Questão 1 - Exibir os divisores de um número positivo**
   > **Descrição:** Crie um programa que receba um número inteiro positivo e exiba todos os seus divisores. Não permita a digitação de números negativos e solicite a digitação de um número positivo.  
+>>>>>>> 1c5173fabe371b70cb266e9c5775ffc50afb788d
   > **Responsável:** GABRIEL MARTINS CHINELLI MAIA
 
 - [x] **Questão 2 - Contar vogais em uma frase**
@@ -40,8 +45,13 @@ Para minimizar os erros do nosso projeto, decidimos seguir um padrão de mercado
   > **Descrição:** Faça um programa que leia uma matriz 3x3 e verifique se ela é uma matriz identidade. A matriz identidade é uma matriz quadrada onde os elementos da diagonal principal são iguais a 1 e os demais são iguais a 0.  
   > **Responsável:** LUIZ FELIPE VIEIRA DE OLIVEIRA RIBEIRO
 
+<<<<<<< HEAD
+- [X] **Questão 7 - Verificar se um número é palíndromo**
+  > **Descrição:** Crie um programa que leia uma cadeia e determine se ela é um palíndromo (ou seja, se ela pode ser lida da mesma forma de trás para frente).
+=======
 - [ ] **Questão 7 - Verificar se um número é palíndromo**
   > **Descrição:** Crie um programa que leia uma cadeia e determine se ela é um palíndromo (ou seja, se ela pode ser lida da mesma forma de trás para frente).  
+>>>>>>> 1c5173fabe371b70cb266e9c5775ffc50afb788d
   > **Responsável:** GABRIEL MARTINS CHINELLI MAIA
 
 - [x] **Questão 8 - Verificar se um número é primo**
@@ -64,8 +74,13 @@ Para minimizar os erros do nosso projeto, decidimos seguir um padrão de mercado
   > **Descrição:** Faça um programa que leia um número inteiro e calcule o fatorial desse número utilizando uma função recursiva.  
   > **Responsável:** LUIZ FELIPE VIEIRA DE OLIVEIRA RIBEIRO
 
+<<<<<<< HEAD
+- [X] **Questão 13 - Encontrar o maior e o menor valor de uma matriz 4x4**
+  > **Descrição:** Crie um programa que leia uma matriz 4x4 e encontre o maior e o menor valor dessa matriz.
+=======
 - [ ] **Questão 13 - Encontrar o maior e o menor valor de uma matriz 4x4**
   > **Descrição:** Crie um programa que leia uma matriz 4x4 e encontre o maior e o menor valor dessa matriz.  
+>>>>>>> 1c5173fabe371b70cb266e9c5775ffc50afb788d
   > **Responsável:** GABRIEL MARTINS CHINELLI MAIA
 
 - [x] **Questão 14 - Triangulo Retângulo de Altura N**
