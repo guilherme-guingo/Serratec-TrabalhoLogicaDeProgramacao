@@ -1,11 +1,7 @@
 programa
 {
+	
 	inclua biblioteca Texto --> TXT
-
-	funcao logico Letra(caracter C)
-	{
-		retorne (C >= 'a' e C <= 'z') ou (C >= 'A' e C <= 'Z')
-     }
 
 	funcao cadeia LimparFrase(cadeia FraseOriginal)
 	{	
@@ -19,7 +15,7 @@ programa
 		{
 			CaractereAtual = TXT.obter_caracter(FraseOriginal, i)
             
-			se(CaractereAtual != ' ' e Letra(CaractereAtual))
+			se(CaractereAtual != ' ')
 			{
 				FraseLimpa += CaractereAtual
 			}
@@ -59,7 +55,7 @@ programa
     
 		se(TXT.numero_caracteres(FraseProcessada) == 0)
 		{
-			escreva("informação inválida. Por favor rode o programa novamente e digite uma palavra, frase ou texto com letras.")
+			escreva("informação inválida. Por favor rode o programa novamente e digite uma palavra, frase ou texto.")
 		}
 		senao
 		{
@@ -81,7 +77,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1335; 
+ * @POSICAO-CURSOR = 1081; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
