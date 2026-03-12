@@ -18,11 +18,7 @@ Para minimizar os erros do nosso projeto, decidimos seguir um padrão de mercado
 
 <<<<<<< HEAD
 - [X] **Questão 1 - Exibir os divisores de um número positivo**
-  > **Descrição:** Crie um programa que receba um número inteiro positivo e exiba todos os seus divisores. Não permita a digitação de números negativos e solicite a digitação de um número positivo.
-=======
-- [ ] **Questão 1 - Exibir os divisores de um número positivo**
-  > **Descrição:** Crie um programa que receba um número inteiro positivo e exiba todos os seus divisores. Não permita a digitação de números negativos e solicite a digitação de um número positivo.  
->>>>>>> 1c5173fabe371b70cb266e9c5775ffc50afb788d
+  > **Descrição:** Crie um programa que receba um número inteiro positivo e exiba todos os seus divisores. Não permita a digitação de   números negativos e solicite a digitação de um número positivo.  
   > **Responsável:** GABRIEL MARTINS CHINELLI MAIA
 
 - [x] **Questão 2 - Contar vogais em uma frase**
@@ -41,7 +37,7 @@ Para minimizar os erros do nosso projeto, decidimos seguir um padrão de mercado
   > **Descrição:** Crie um algoritmo que leia um vetor de 10 posições e depois ordene seus valores em ordem crescente sem usar funções prontas ou bibliotecas.  
   > **Responsável:** LILIANE COSTA DA SILVA
 
-- [ ] **Questão 6 - Verificar se uma matriz 3x3 é identidade**
+- [X] **Questão 6 - Verificar se uma matriz 3x3 é identidade**
   > **Descrição:** Faça um programa que leia uma matriz 3x3 e verifique se ela é uma matriz identidade. A matriz identidade é uma matriz quadrada onde os elementos da diagonal principal são iguais a 1 e os demais são iguais a 0.  
   > **Responsável:** LUIZ FELIPE VIEIRA DE OLIVEIRA RIBEIRO
 
@@ -70,7 +66,7 @@ Para minimizar os erros do nosso projeto, decidimos seguir um padrão de mercado
   > **Descrição:** Desenvolva um algoritmo que receba um vetor de 10 números e retorne a média dos números pares e a média dos números ímpares separadamente.  
   > **Responsável:** LILIANE COSTA DA SILVA
 
-- [ ] **Questão 12 - Cálculo do fatorial usando recursão**
+- [X] **Questão 12 - Cálculo do fatorial usando recursão**
   > **Descrição:** Faça um programa que leia um número inteiro e calcule o fatorial desse número utilizando uma função recursiva.  
   > **Responsável:** LUIZ FELIPE VIEIRA DE OLIVEIRA RIBEIRO
 
@@ -99,6 +95,6 @@ Para minimizar os erros do nosso projeto, decidimos seguir um padrão de mercado
   > **Descrição:** Faça um programa que leia a altura e o sexo de 5 pessoas e calcule a média da altura das mulheres e dos homens separadamente. O programa deve encerrar quando o usuário digitar uma altura negativa.  
   > **Responsável:** LILIANE COSTA DA SILVA
 
-- [ ] **Questão 18 - Soma da Diagonal Secundária de uma Matriz 4x4**
+- [X] **Questão 18 - Soma da Diagonal Secundária de uma Matriz 4x4**
   > **Descrição:** Escreva um programa que calcule e exiba a soma dos elementos da diagonal secundária de uma matriz 4x4.  
   > **Responsável:** LUIZ FELIPE VIEIRA DE OLIVEIRA RIBEIRO
