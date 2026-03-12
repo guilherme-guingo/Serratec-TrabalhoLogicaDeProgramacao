@@ -16,7 +16,7 @@ Para minimizar os erros do nosso projeto, decidimos seguir um padrão de mercado
 
 ### ✅ Lista de Questões e Responsáveis
 
-- ✅ **Questão 1 - Exibir os divisores de um número positivo**
+- [X] **Questão 1 - Exibir os divisores de um número positivo**
   > **Descrição:** Crie um programa que receba um número inteiro positivo e exiba todos os seus divisores. Não permita a digitação de números negativos e solicite a digitação de um número positivo.
   > **Responsável:** GABRIEL MARTINS CHINELLI MAIA
 
@@ -40,7 +40,7 @@ Para minimizar os erros do nosso projeto, decidimos seguir um padrão de mercado
   > **Descrição:** Faça um programa que leia uma matriz 3x3 e verifique se ela é uma matriz identidade. A matriz identidade é uma matriz quadrada onde os elementos da diagonal principal são iguais a 1 e os demais são iguais a 0.
   > **Responsável:** LUIZ FELIPE VIEIRA DE OLIVEIRA RIBEIRO
 
-- [ ] **Questão 7 - Verificar se um número é palíndromo**
+- [X] **Questão 7 - Verificar se um número é palíndromo**
   > **Descrição:** Crie um programa que leia uma cadeia e determine se ela é um palíndromo (ou seja, se ela pode ser lida da mesma forma de trás para frente).
   > **Responsável:** GABRIEL MARTINS CHINELLI MAIA
 
