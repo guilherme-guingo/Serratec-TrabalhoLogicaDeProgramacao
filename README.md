@@ -16,7 +16,7 @@ Para minimizar os erros do nosso projeto, decidimos seguir um padrão de mercado
 
 ### ✅ Lista de Questões e Responsáveis
 
-- [ ] **Questão 1 - Exibir os divisores de um número positivo**
+- ✅ **Questão 1 - Exibir os divisores de um número positivo**
   > **Descrição:** Crie um programa que receba um número inteiro positivo e exiba todos os seus divisores. Não permita a digitação de números negativos e solicite a digitação de um número positivo.
   > **Responsável:** GABRIEL MARTINS CHINELLI MAIA
 
