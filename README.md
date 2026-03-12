@@ -64,7 +64,7 @@ Para minimizar os erros do nosso projeto, decidimos seguir um padrão de mercado
   > **Descrição:** Faça um programa que leia um número inteiro e calcule o fatorial desse número utilizando uma função recursiva.
   > **Responsável:** LUIZ FELIPE VIEIRA DE OLIVEIRA RIBEIRO
 
-- [ ] **Questão 13 - Encontrar o maior e o menor valor de uma matriz 4x4**
+- [X] **Questão 13 - Encontrar o maior e o menor valor de uma matriz 4x4**
   > **Descrição:** Crie um programa que leia uma matriz 4x4 e encontre o maior e o menor valor dessa matriz.
   > **Responsável:** GABRIEL MARTINS CHINELLI MAIA
 
