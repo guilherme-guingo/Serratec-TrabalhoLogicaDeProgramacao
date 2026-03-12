@@ -1,5 +1,5 @@
 programa {
   funcao inicio() {
-    escreva("Primeiro git test")
+    escreva("Segundo git test")
   }
 }
