@@ -1,4 +1,4 @@
-		//Questão 21 - Encontrar a Linha com Maior Soma em uma Matriz 5x5
+//Questão 21 - Encontrar a Linha com Maior Soma em uma Matriz 5x5
 //•Descrição: Desenvolva um algoritmo que leia uma matriz 5x5 e encontre
 // a linha cuja soma dos elementos seja a maior entre todas.
 
@@ -32,12 +32,18 @@ programa
 				}
 			}
 		}
-	
-		se(linha > 1){
-			escreva ("a linha com maior soma foi a ",linha)
-		}senao {
-			escreva ("A soma de todas as linhas tem o mesmo valor ")	
-		}
+			
+		escreva ("a linha com maior soma foi a ",linha,"\nO valor somado da linha foi ",maior_valor," \n\n")
+		
+		para(inteiro i=0; i < 5; i++){				
+			para(inteiro j=0; j < 5; j++){
+			
+				escreva(matriz[i][j],"\t")
+				
+			}
+			
+			escreva("\n\n")
+		}	
 	}
 }		
 
@@ -46,7 +52,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 791; 
+ * @POSICAO-CURSOR = 946; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {matriz, 9, 7, 6}-{linha, 21, 10, 5}-{somaL, 22, 7, 5};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
