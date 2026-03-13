@@ -52,10 +52,6 @@ Para minimizar os erros do nosso projeto, decidimos seguir um padrão de mercado
   > **Descrição:** Crie um programa que gere os primeiros N termos da sequência de Fibonacci, onde N é informado pelo usuário.  
   > **Responsável:** HENRIQUE DLUGOKENSKI ZORATI
 
-- [x] **Questão 10 - Inverter uma cadeia recursivamente**
-  > **Descrição:** Escreva uma função recursiva que inverta uma cadeia. Use a biblioteca Texto para contar e pegar os caracteres.  
-  > **Responsável:** JHONATA ESTEVES RAIBOLT
-
 - [X] **Questão 11 - Média dos números pares e ímpares de um vetor**
   > **Descrição:** Desenvolva um algoritmo que receba um vetor de 10 números e retorne a média dos números pares e a média dos números ímpares separadamente.  
   > **Responsável:** LILIANE COSTA DA SILVA
@@ -87,3 +83,7 @@ Para minimizar os erros do nosso projeto, decidimos seguir um padrão de mercado
 - [X] **Questão 18 - Soma da Diagonal Secundária de uma Matriz 4x4**
   > **Descrição:** Escreva um programa que calcule e exiba a soma dos elementos da diagonal secundária de uma matriz 4x4.  
   > **Responsável:** LUIZ FELIPE VIEIRA DE OLIVEIRA RIBEIRO
+
+  - [x] **Questão 21 - Encontrar a Linha com Maior Soma em uma Matriz 5x5**
+  > **Descrição:** Desenvolva um algoritmo que leia uma matriz 5x5 e encontre a linha cuja soma dos elementos seja a maior entre todas. 
+  > **Responsável:** JHONATA ESTEVES RAIBOLT
