@@ -10,6 +10,11 @@ programa
 
 		para(inteiro i=0;i<=n;i++)
 		{
+			se(n>46) 
+			{
+			escreva("indices acima de 46 excedem o tamanho da variavel inteiro gerando um numero errado")
+			pare
+			}
 			escreva(t1," ")
 			proximo=t1+t2
 			t1=t2
@@ -22,7 +27,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 138; 
+ * @POSICAO-CURSOR = 278; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

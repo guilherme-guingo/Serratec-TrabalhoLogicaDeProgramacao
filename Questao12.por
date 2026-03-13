@@ -12,8 +12,10 @@ programa
 		escreva("Digite um número\n>> ")
 		leia(numero)
 
+		se(numero<=31)
+		{
 		escreva("\nFatorial de " + numero + " é = " + fatorial(numero) + "\n")
-		
+		}senao escreva("indices acima de 31 excedem o tamanho da variavel inteiro gerando um numero errado")
 	}
 	funcao inteiro fatorial(inteiro n){
 		se(n == 0){
@@ -21,6 +23,7 @@ programa
 		}senao{
 			retorne n * fatorial(n - 1)
 		}
+		
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -28,7 +31,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 481; 
+ * @POSICAO-CURSOR = 464; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
