@@ -4,30 +4,30 @@
 
 programa {
  
-  funcao inicio() {
+ 	funcao inicio() {
  
-    inteiro base, expoente
+		inteiro base, expoente
 
-    escreva ("Informe um número para a base: ")
-    leia (base)
+		escreva ("Informe um número para a base: ")
+		leia (base)
 
-    escreva("Informe um número para expoente: ")
-    leia(expoente)
+		escreva("Informe um número para expoente: ")
+		leia(expoente)
 
-    escreva(base," elevado a ", expoente, "° petência = ", potencia(base, expoente))
+		escreva(base," elevado a ", expoente, "° petência = ", potencia(base, expoente))
     
-  }
+	}
 
-  funcao inteiro potencia (inteiro base, inteiro expoente){
+	funcao inteiro potencia (inteiro base, inteiro expoente){
  
-    inteiro resultado =1
+		inteiro resultado = 1
  
-    para (inteiro i =0; i < expoente;  i++){
-      resultado = resultado *base 
-    }
+		para (inteiro i=0; i < expoente; i++){
+			resultado = resultado *base 
+		}
  
-    retorne resultado
-  }
+		retorne resultado
+	}
 }
 
 /* $$$ Portugol Studio $$$ 
@@ -35,7 +35,7 @@ programa {
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 743; 
+ * @POSICAO-CURSOR = 646; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
