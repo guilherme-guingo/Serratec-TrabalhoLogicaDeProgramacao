@@ -1,6 +1,6 @@
 //Questão 4 - Função de potenciação sem biblioteca
 //•Descrição: Escreva uma função chamada potencia() que recebe dois números inteiros, base e expoente, 
-//e retorna o valor da potenciação sem usar a função pronta de potenciação ou biblioteca.
+// e retorna o valor da potenciação sem usar a função pronta de potenciação ou biblioteca.
 
 programa {
  
@@ -35,7 +35,7 @@ programa {
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 646; 
+ * @POSICAO-CURSOR = 158; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

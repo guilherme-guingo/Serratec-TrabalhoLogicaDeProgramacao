@@ -43,8 +43,7 @@ programa
 			}
 			
 			escreva("\n\n")
-		}
-			
+		}	
 	}
 }		
 
@@ -53,7 +52,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 773; 
+ * @POSICAO-CURSOR = 946; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {matriz, 9, 7, 6}-{linha, 21, 10, 5}-{somaL, 22, 7, 5};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
