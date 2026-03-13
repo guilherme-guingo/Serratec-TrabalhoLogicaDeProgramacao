@@ -1,6 +1,5 @@
 programa
 {
-	
 	funcao inicio()
 	{
 		const inteiro V = 10
@@ -26,10 +25,11 @@ programa
 			}
 		}
 		escreva("Os numeros pares sao: ")
-		para(inteiro i = 0; i<contadorp; i++)escreva(par[i],", ")
+		para(inteiro i = 0; i<contadorp; i++) escreva(par[i],", ")
 		escreva("\n")
+		
 		escreva("Os numeros impares sao: ")
-		para(inteiro i = 0; i<contadori; i++)escreva(impar[i],", ")
+		para(inteiro i = 0; i<contadori; i++) escreva(impar[i],", ")
 		escreva("\n")
 	}
 }
@@ -38,9 +38,9 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 106; 
+ * @POSICAO-CURSOR = 1; 
  * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = {usuario, 7, 10, 7};
+ * @SIMBOLOS-INSPECIONADOS = {usuario, 6, 10, 7};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
  */

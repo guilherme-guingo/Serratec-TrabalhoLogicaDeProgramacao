@@ -8,7 +8,7 @@ programa
 		escreva("informe o indice da sequencia: ")
 		leia(n)
 
-		para(inteiro i= 0; i<=n; i++)
+		para(inteiro i=0;i<=n;i++)
 		{
 			escreva(t1," ")
 			proximo=t1+t2
@@ -22,7 +22,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 232; 
+ * @POSICAO-CURSOR = 138; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
